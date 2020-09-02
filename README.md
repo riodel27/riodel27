@@ -2,8 +2,6 @@
 
 🔭 I’m currently working on StartechUP
  
-🌱 I’m currently learning Typescript for (React and Nodejs) and Django
-
 👯 I’m looking to collaborate on a fun project
 
 🤔 I’m looking for help with Django
@@ -11,13 +9,6 @@
 💬 Ask me about anything...
 
 📫 How to reach me: riopamaong@gmail.com
-
-
-
-
-
-
-
 
 
 <!--
