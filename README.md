@@ -10,7 +10,7 @@
 
 💬 Ask me about anything...
 
-📫 How to reach me: via email(riopamaong@gmail.com)
+📫 How to reach me: riopamaong@gmail.com
 
 
 
