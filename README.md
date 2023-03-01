@@ -4,7 +4,7 @@
  
 👯 I’m looking to collaborate on a fun project
 
-🤔 I’m looking for help with Haskell and Python
+🤔 I’m looking for help with Rust Programming and Python
 
 💬 Ask me about anything...
 
