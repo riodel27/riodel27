@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on StartechUP
+
  
 👯 I’m looking to collaborate on a fun project
 
