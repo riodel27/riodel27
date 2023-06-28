@@ -4,11 +4,13 @@
  
 👯 I’m looking to collaborate on a fun project
 
-🤔 I’m looking for help with Rust Programming and Python
+🤔 I’m looking for help with cypress
 
 💬 Ask me about anything...
 
 📫 How to reach me: riopamaong@gmail.com
+
+✨ https://www.notion.so/Essential-Insights-Gained-from-Learning-Cypress-a2b3031cc7624a0aa4b2e1b8774f50c4
 
 
 <!--
